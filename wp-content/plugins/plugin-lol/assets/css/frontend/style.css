@@ -1,0 +1,18 @@
+.price_option{
+	color: #F00;
+}
+
+.custom_option_checkbox{
+	border-bottom: 1px solid #ebebeb;
+	border-top: 1px solid #ebebeb;
+	padding: 10px 0;
+	margin-bottom: 10px;
+}
+
+.option_set_name{
+	font-size: 17px;
+}
+
+.checkbox_value{
+	margin-left: 25px!important;
+}

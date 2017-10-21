@@ -1,0 +1,16 @@
+dl.variation{
+  margin-bottom: 40px;
+}
+.variation > dt{
+	float: left;
+	font-size: 12px;
+  margin-right: 5px;
+}
+.variation > dd{
+	margin: 5px!important;
+}
+
+.variation > dd > p{
+	margin: 5px!important;
+	font-size: 12px;
+}
